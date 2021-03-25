@@ -1,0 +1,20 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\bin\Debug\Телефоны.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\bin\Debug\Телефоны.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Debug\Телефоны.Frm.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Debug\Телефоны.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Debug\Телефоны.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Debug\Телефоны.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Debug\Телефоны.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\bin\Debug\Телефоны.exe
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\bin\Debug\Телефоны.pdb
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\bin\Debug\stdole.dll
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.Frm.resources
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.exe
+C:\Users\Андрей\Desktop\Телефоны\Телефоны\obj\Debug\Телефоны.pdb

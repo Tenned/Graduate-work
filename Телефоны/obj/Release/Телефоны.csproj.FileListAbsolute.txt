@@ -1,0 +1,20 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Release\Телефоны.Frm.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Release\Телефоны.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Release\Телефоны.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\bin\Release\Телефоны.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\bin\Release\Телефоны.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Release\Телефоны.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\obj\Release\Телефоны.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Телефоны\Телефоны\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\bin\Release\Телефоны.exe
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\bin\Release\Телефоны.pdb
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\bin\Release\stdole.dll
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\obj\Release\Телефоны.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\obj\Release\Телефоны.Frm.resources
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\obj\Release\Телефоны.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\obj\Release\Телефоны.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\obj\Release\Телефоны.exe
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\obj\Release\Телефоны.pdb
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\bin\Release\Телефоны.exe.CodeAnalysisLog.xml
+C:\Users\Andrey\Desktop\Телефоны\Телефоны\bin\Release\Телефоны.exe.lastcodeanalysissucceeded
